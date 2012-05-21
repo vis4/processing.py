@@ -1,4 +1,4 @@
-.sublime-project
-.pyc
-.class
-.DS_Store
+*.sublime-project
+*.pyc
+*.class
+*.DS_Store
