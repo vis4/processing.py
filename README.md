@@ -21,7 +21,7 @@ def draw():
     ellipse(mouse.x, mouse.y, 80, 80)
 
 run(globals())
-``
+```
 
 by calling
 
