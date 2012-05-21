@@ -1,5 +1,5 @@
 
-from p9 import *
+from P5 import *
 
 
 def setup():
@@ -28,3 +28,5 @@ def mouseDragged(evt):
         if d < 30:
             return
     pts.append((mouse.x, mouse.y))
+
+run(globals())

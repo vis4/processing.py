@@ -1,3 +1,4 @@
 #!/bin/sh
 export CLASSPATH=.:/usr/local/lib/processing/core.jar
-jython main.py
+jython $1
+
