@@ -6,7 +6,7 @@ Allows you to write Processing sketches in Python.
 
 For instance, you can run this ``helloworld.py``
 
-``python
+```python
 from P5 import *
 
 def setup():
@@ -25,9 +25,9 @@ run(globals())
 
 by calling
 
-``bash
+```bash
 jython helloworld.py
-``
+```
 
 ### Current progress
 
