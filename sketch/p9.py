@@ -1,4 +1,20 @@
-import sys
+"""
+This module wraps global processing.core.PApplet methods inside.
+global functions.
+
+Differences to Processing:
+- global attributes won't work. Instead you must use the following
+
+    mouse.x
+    mouse.y
+    mouse.px
+    mouse.py
+    mouse.pressed
+    mouse.btn
+    env.frameRate
+    env.frameCount
+
+"""
 
 _p9inst = "foo"
 
