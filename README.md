@@ -21,7 +21,7 @@ def draw():
     ellipse(mouse.x, mouse.y, 80, 80)
 
 run(globals())
-```
+``
 
 by calling
 
@@ -31,7 +31,7 @@ jython helloworld.py
 
 ### Current progress
 
-Under development. Check example sketches to see what's working already.
+The development on this project has stopped after just one day when the author noticed that @jdf already implemented his own [processing.py](https://github.com/jdf/processing.py) in 2010. ;)
 
 
 ### Installation notes
